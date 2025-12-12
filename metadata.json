@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Transferability Analyzer v3",
+  "description": "Analyze job postings to determine automation and augmentation potential using Gemini 3.0 Pro's thinking capabilities.",
+  "requestFramePermissions": []
+}
